@@ -11,7 +11,7 @@ This project aims to enhance the accessibility and engagement of English-languag
 
 ### 2. Lip Reanimation
 - **Objective:** Enhanced the immersive learning experience by synchronizing video presenters' lip movements with translated Urdu audio.
-- **Technologies Used:** Wav2Lip and LipSync.
+- **Technologies Used:** Wav2Lip and LipGan.
 - **Description:** Lip reanimation techniques were implemented to create a realistic illusion that the speaker is conversing in Urdu, bridging the language gap and creating a more engaging online learning environment.
 
 ### 3. Personalization
