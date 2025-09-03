@@ -2,7 +2,7 @@
 
 This project aims to enhance the accessibility and engagement of English-language educational videos for Urdu-speaking students through advanced translation and lip reanimation techniques. The project includes translation of video content, synchronization of lip movements with translated audio, and personalized explanations for technical terms.
 
-## View Demo Video -> https://youtu.be/D_G8FqD9kCA
+[![Demo Video](screenshot.png)](https://your-video-link.com)
 
 ## Project Components
 
