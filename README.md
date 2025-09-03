@@ -2,6 +2,8 @@
 
 This project aims to enhance the accessibility and engagement of English-language educational videos for Urdu-speaking students through advanced translation and lip reanimation techniques. The project includes translation of video content, synchronization of lip movements with translated audio, and personalized explanations for technical terms.
 
+<video src="EdZubanDemo.mp4" controls width="600"></video>
+
 ## Project Components
 
 ### 1. Translation
